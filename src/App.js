@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={1569698098493} className="App-logo" alt="logo" />
         <p>Merzifon forever !!!!</p>
       </header>
     </div>
